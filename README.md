@@ -7,6 +7,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0177-nth-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0511-game-play-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1084-sales-analysis-iii) |
 | [1795-rearrange-products-table](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1795-rearrange-products-table) |
 ## Array
