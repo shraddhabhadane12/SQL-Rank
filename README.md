@@ -9,6 +9,7 @@
 | [0177-nth-highest-salary](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0177-nth-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0595-big-countries) |
 | [1084-sales-analysis-iii](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1084-sales-analysis-iii) |
 | [1407-top-travellers](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1407-top-travellers) |
