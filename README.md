@@ -15,6 +15,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0596-classes-with-at-least-5-students) |
+| [0607-sales-person](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1148-article-views-i) |
