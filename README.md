@@ -21,6 +21,7 @@
 | [1084-sales-analysis-iii](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1148-article-views-i) |
 | [1407-top-travellers](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1484-group-sold-products-by-the-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/shraddhabhadane12/SQL-Rank/tree/master/1795-rearrange-products-table) |
 ## Array
